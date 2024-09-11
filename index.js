@@ -10,10 +10,12 @@ let meta = {
     
 }
 
-meta.value = "Não é mais ler um livro"
-meta.log(meta.value)
+let metas = [
+    meta,
+    {
+        value: "caminhar 20 minutos todos os dias",
+        checked: false
+    }
+]
 
-// function // arrow function
-//const criarMeta = () => {}
-
-//function criarMeta() {}
+console.log(metas[1].value)
