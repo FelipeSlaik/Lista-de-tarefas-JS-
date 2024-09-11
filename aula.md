@@ -6,14 +6,14 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja para res
 
 ## Peças de uma linguagem
 - [X] Comentários
-- [] Declaração de variáveis (const, let)
-- [] Operadores (atribuição, concatenação, matemáticos, lógicos)
-- [] Tipos de dados (string, number, boolean)
-- [] Estrutura de dados (functions, object, array)
+- [x] Declaração de variáveis (const, let)
+- [x] Operadores (atribuição, concatenação, matemáticos, lógicos)
+- [x] Tipos de dados (string, number, boolean)
+- [x] Estrutura de dados (functions, object, array)
 - [] Controle de fluxo (if/else)
-- [] Estrutura de repetição (for, while)
+- [x] Estrutura de repetição (for, while)
 
-## Fases da resolução de um problema
+## Fases da resolução de um problema:
 - Coletar os dados
 - Processar os dados (manipular, alterar ...)
 - Apresentar os dados
@@ -28,7 +28,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja para res
 - [x] Number: 2, 1.4
 - [x] Boolean: true, false
 
-## Operadores
+## Operadores:
 - [x] Operadores de atribuição de valor
 - [x] Operador de concatenação
 
@@ -43,13 +43,20 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja para res
 - [x] Criação e manipulação de objetos
 - [x] Acesso a propriedades de objetos
 
-### Functions
+### Functions:
 - [x] criar, passar argumento
 - [x] executar
 - [x] arrow function / named function
 
-# Estrutura de repetição
+# Estrutura de repetição:
 - [x] while
 
-# Condicionais
+# Condicionais:
 - [x] switch
+
+## Módulos em Node,js:
+- [x] Importção de módulos (require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promisses:
+- [x] Uso de funções assíncronas (async/await)
