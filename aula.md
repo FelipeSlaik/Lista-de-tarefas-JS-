@@ -10,7 +10,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja para res
 - [x] Operadores (atribuição, concatenação, matemáticos, lógicos)
 - [x] Tipos de dados (string, number, boolean)
 - [x] Estrutura de dados (functions, object, array)
-- [] Controle de fluxo (if/else)
+- [x] Controle de fluxo (if/else)
 - [x] Estrutura de repetição (for, while)
 
 ## Fases da resolução de um problema:
@@ -31,6 +31,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja para res
 ## Operadores:
 - [x] Operadores de atribuição de valor
 - [x] Operador de concatenação
+- [x] Operadores de comparação 1==2/igual | 1 != 2/diferente
 
 ## Estrutura de dados:
 
@@ -53,6 +54,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja para res
 
 # Condicionais:
 - [x] switch
+- [x] if/else
 
 ## Módulos em Node,js:
 - [x] Importção de módulos (require, CommonJS)
