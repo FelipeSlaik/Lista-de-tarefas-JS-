@@ -31,7 +31,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja para res
 ## Operadores:
 - [x] Operadores de atribuição de valor
 - [x] Operador de concatenação
-- [x] Operadores de comparação 1==2/igual | 1 != 2/diferente
+- [x] Operadores de comparação == igual | != diferente
 - [x] Spread operator:  ...
 
 ## Estrutura de dados:
